@@ -20,6 +20,9 @@ Without a pull-down or pull-up resistor, the input can be left in a floating sta
 
 *Physical circuit built and tested on an Elegoo UNO R3.*
 
+<img src="pull-down-resistor-circuit-on-led.jpg" width="550">
+
+*Button pressed in circuit, LED powered ON.*
 
 ## Components
 
