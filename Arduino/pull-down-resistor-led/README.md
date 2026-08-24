@@ -14,6 +14,13 @@ The circuit uses a 10 kΩ pull-down resistor to give the Arduino digital input a
 
 Without a pull-down or pull-up resistor, the input can be left in a floating state. This means the input is not firmly connected to either HIGH or LOW. It can therefore pick up electrical noise or interference and produce an unpredictable reading, potentially causing the Arduino to think the button has been pressed when it hasn't. The pull-down resistor prevents this by giving the input a known LOW state whenever the button is open.
 
+## Physical Hardware
+
+<img src="pull-down-resistor-circuit.PNG" width="550">
+
+*Physical circuit built and tested on an Elegoo UNO R3.*
+
+
 ## Components
 
 - Arduino Uno
@@ -24,4 +31,4 @@ Without a pull-down or pull-up resistor, the input can be left in a floating sta
 - LED
 - Jumper wires
 
-![Physical Hardware Circuit](pull-down-resistor-circuit.PNG)
+
