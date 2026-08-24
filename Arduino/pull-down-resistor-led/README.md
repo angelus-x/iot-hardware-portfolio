@@ -23,3 +23,5 @@ Without a pull-down or pull-up resistor, the input can be left in a floating sta
 - 220 Ω resistor
 - LED
 - Jumper wires
+
+![Physical Hardware Circuit](pull-down-resistor-circuit.PNG)
