@@ -24,6 +24,11 @@ Without a pull-down or pull-up resistor, the input can be left in a floating sta
 
 *Button pressed in circuit, LED powered ON.*
 
+## Arduino Code
+
+The Arduino sketch used to control the LED is included in
+[`pull-down-resistor-led.ino`](pull-down-resistor-led.ino).
+
 ## Components
 
 - Arduino Uno
