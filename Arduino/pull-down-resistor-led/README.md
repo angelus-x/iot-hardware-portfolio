@@ -1,5 +1,5 @@
-## Pull-Down Resistor
-How the Pull-Down Resistor Works
+# Pull-Down Resistor
+# # How the Pull-Down Resistor Works
 
 The circuit uses a 10 kΩ pull-down resistor to give the Arduino digital input a defined default state.
 
@@ -12,7 +12,7 @@ Without a pull-down or pull-up resistor, the input can be left in a floating sta
 The pull-down resistor prevents this by giving the input a known LOW state whenever the button is open.
 
 
-Circuit Simulation
+# # Circuit Simulation
 
 The circuit was simulated in Tinkercad before being built and tested on physical hardware.
 
