@@ -12,6 +12,12 @@ This project uses a photoresistor (LDR) and a 10 kΩ resistor to form a voltage 
 
 The program compares the measured light level against a threshold of 800. When the reading is below 800, the red LED is illuminated to indicate a lower light level. When the reading is 800 or above, the green LED is illuminated to indicate a higher light level. The sensor value and LED status are also displayed through the Serial Monitor.
 
+## Source Code
+
+The Arduino program is available here:
+
+[View the Arduino source code](photoresistor.ino)
+
 ## Physical Hardware
 
 ## Demonstration
