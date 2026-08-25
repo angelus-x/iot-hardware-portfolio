@@ -16,4 +16,5 @@ The program compares the measured light level against a threshold of 800. When t
 
 ## Demonstration
 
-[▶️ Watch the photoresistor demonstration](20260825_084647_1.mp4)
+
+<video src="./20260825_084647_1.mp4" controls width="700"></video>
