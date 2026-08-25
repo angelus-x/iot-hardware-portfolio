@@ -18,3 +18,13 @@ The program compares the measured light level against a threshold of 800. When t
 
 ![Photoresistor Demonstration](./photoresistor.gif)
 
+
+## Components
+
+- Arduino Uno
+- Photoresistor (LDR)
+- 10 kΩ resistor
+- 2 × LEDs (green and red)
+- 2 × 220 Ω resistors
+- Breadboard
+- Jumper wires
