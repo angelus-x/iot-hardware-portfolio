@@ -27,7 +27,7 @@ The Arduino program is available here:
 
 ## Components
 
-- Arduino Uno
+- Elegoo Uno
 - Photoresistor (LDR)
 - 10 kΩ resistor
 - 2 × LEDs (green and red)
